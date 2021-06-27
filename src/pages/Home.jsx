@@ -10,8 +10,8 @@ const Home = () => {
       <Logo />
       <Navigation />
       <Countries />
-      
-      <h1>Home</h1>
+
+     
     </>
   );
 };
